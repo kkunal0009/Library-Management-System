@@ -1,0 +1,56 @@
+121
+Aman
+f7
+2
+Abstract Algebra
+Joseph Gallian
+1
+Electrical Circuit
+R.C. Dorf
+3
+153
+Manan
+e2
+3
+Sociology Themes 
+Martin Holborn
+5
+Psychology
+G. Misra
+5
+Algorithms
+Thomas H. Cormen
+4
+131
+gari
+e2
+0
+156
+Rahul
+f1
+5
+Programming with ANSI 
+Ashok N. Kamthane
+4
+Problems in Physics
+Igor Irodov
+3
+Quantum Mechanics
+David J. Griffiths
+3
+Sacred Mathematics
+Fukagawa Hidetoshi
+1
+Techniques in Combinatorics
+Chen Chuan-Chong
+1
+185
+Sachin
+d4
+2
+Differential Equations
+Martin Braun
+1
+Programming Pearls
+Jon Bentley
+4

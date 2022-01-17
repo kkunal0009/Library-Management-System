@@ -1,0 +1,99 @@
+Abstract Algebra
+Joseph Gallian
+1
+Introduction TO algorithm 
+Thomas H. Cormen
+1
+Calculus Made easy
+Silvanus P. Thompson
+1
+Calculus
+Michael Spivak
+1
+Calculus On Manifolds
+Michael Spivak
+1
+Sacred Mathematics
+Fukagawa Hidetoshi
+1
+Techniques in Combinatorics
+Chen Chuan-Chong
+1
+Differential Equations
+Martin Braun
+1
+Semiconductor physics
+Donald A. Neamen
+2
+communication systems
+Herbert Taub
+2
+Fundamentals of Digital
+A. Anand kumar
+2
+Modern Digital Electronics
+R.P. Jain
+2
+Electronic Principles
+Albert Paul Malvino
+2
+Electrical Circuit
+R.C. Dorf
+3
+Problems in Physics
+Igor Irodov
+3
+Quantum Mechanics
+David J. Griffiths
+3
+Gravitation
+Charles W. Misner
+3
+Classical Electrodynamics
+John David Jackson
+3
+Programming Pearls
+Jon Bentley
+4
+JavaScript: The Good Parts
+Douglas Crockford
+4
+C Programming Language
+Dennis M. Ritchie
+4
+Modern Operating Systems
+Andrew S. Tanenbaum
+4
+The C++ Programming Language
+Bjarne Stroustrup
+4
+Introduction to Algorithms
+Thomas H. Cormen
+4
+C++
+Paul Deitel
+4
+Algorithms
+Thomas H. Cormen
+4
+Computer Programs
+Harold Abelson
+4
+Programming with ANSI 
+Ashok N. Kamthane
+4
+Psychology
+G. Misra
+5
+Capitalism 
+Milton Friedman
+5
+Accounting 
+Joel G. Siegel
+5
+Sociology Themes 
+Martin Holborn
+5
+Pride and Prejudice
+Jane Austen
+5
